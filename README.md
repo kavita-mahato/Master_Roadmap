@@ -29,11 +29,7 @@ You’ll need to master **5 pillars**:
 
 ## 🧩 1. Data Structures & Algorithms (DSA)
 
-<<<<<<< HEAD
 This is the foundation — you *must* be elite here.
-=======
-### 1) HTML ✅ / CSS (Responsive) — **2 weeks**
->>>>>>> bdafe301177242c59f3701cdd2113483a8f529ef
 
 ### 📚 Topics to Master
 
